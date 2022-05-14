@@ -21,16 +21,16 @@
       "supportsTablet": true
     },
     "android": {
-      "package":"com.egli22.MainApp",
+      "package": "com.egli22.MainApp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.egli22.MainApp"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "First Project"
+    "description": "First Project",
+    "githubUrl": "https://github.com/eglimiraka22/MainAppReact"
   }
 }
